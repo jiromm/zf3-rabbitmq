@@ -54,7 +54,7 @@ $rabbitMQ->push($job);
  */
 
 $rabbitMQ = $container->get(\RabbitMQ\Service\RabbitMQ::class);
-$consumer = new \RabbitMQ\Consumer\WorkQueueConsumer($queueName);
+$consumer = new \RabbitMQ\Consumer\WorkQueueConsumer('test_work_queue');
 $rabbitMQ->setConsumer($consumer);
 
 $rabbitMQ->receive(function (\RabbitMQ\Consumer\Message $message) {

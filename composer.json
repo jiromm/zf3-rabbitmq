@@ -14,5 +14,8 @@
     "php": "^5.3 || ^7.0",
     "zendframework/zend-servicemanager-di": "^1.0",
     "php-amqplib/php-amqplib": "2.6.*"
-  }
+  },
+  "psr-4": {
+    "RabbitMQ\\": "src/"
+  },
 }

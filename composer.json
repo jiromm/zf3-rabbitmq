@@ -12,9 +12,10 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": "^5.3 || ^7.0",
-    "zendframework/zend-servicemanager-di": "^1.0",
-    "php-amqplib/php-amqplib": "2.6.*"
+    "php": "^7.1",
+    "ext-json": "*",
+    "laminas/laminas-servicemanager-di": "^1.0",
+    "php-amqplib/php-amqplib": "^3"
   },
   "psr-4": {
     "RabbitMQ\\": "src/"

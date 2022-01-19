@@ -2,7 +2,7 @@
 
 namespace RabbitMQ;
 
-use Interop\Container\ContainerInterface;
+use Psr\Container\ContainerInterface;
 use RabbitMQ\Service\RabbitMQ;
 
 class Module

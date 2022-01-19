@@ -2,7 +2,7 @@
   "name": "dimkamonster/laminas-rabbitmq",
   "description": "RabbitMQ module for Laminas",
   "type": "module",
-  "license": "GPLv3",
+  "license": "MIT",
   "keywords": [
     "rabbitmq",
     "laminas"

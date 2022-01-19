@@ -1,13 +1,14 @@
 {
-  "name": "jiromm/zf3-rabbitmq",
-  "description": "RabbitMQ module for Zend Framework",
+  "name": "dimkamonster/laminas-rabbitmq",
+  "description": "RabbitMQ module for Laminas",
   "type": "module",
   "license": "GPLv3",
   "keywords": [
     "rabbitmq",
-    "zf3"
+    "zf3",
+    "laminas"
   ],
-  "homepage": "https://github.com/jiromm/zf3-rabbitmq",
+  "homepage": "https://github.com/dimkamonster/laminas-rabbitmq",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {

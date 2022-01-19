@@ -5,7 +5,6 @@
   "license": "GPLv3",
   "keywords": [
     "rabbitmq",
-    "zf3",
     "laminas"
   ],
   "homepage": "https://github.com/dimkamonster/laminas-rabbitmq",

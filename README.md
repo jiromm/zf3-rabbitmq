@@ -1,9 +1,9 @@
-# zf3-rabbitmq
-ZF3 Module for RabbitMQ
+# laminas-rabbitmq
+Laminas Module for RabbitMQ
 
 ## Install
 
-`composer require jiromm/zf3-rabbitmq`
+`composer require dimkamonster/laminas-rabbitmq`
 
 
 ## Configure
